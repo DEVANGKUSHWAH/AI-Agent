@@ -2,6 +2,8 @@
 
 Two AI-powered applications built with Pydantic AI and Google Gemini models.
 
+Demo Link - https://drive.google.com/drive/folders/1Bws_1j363WdYoCiSaaTr5T7F1FIIEehk?usp=sharing
+
 ---
 
 ## 🛍️ ShopSmart AI - E-Commerce Assistant
@@ -126,5 +128,6 @@ serve(port=5005)
 | UI Style | Gradient Animations | Colored Text |
 
 ---
+
 
 **Built with ❤️ using Google Gemini & Pydantic AI**
